@@ -56,7 +56,7 @@ You can find the log files in the **'logs/'** folder. Ensure that the folder exi
 * Implement additional routes and controllers for other functionality.
 * Add configuration file for global constants such as port.
 * **Improve logger:**
->   1. handle and present more information and details
-    2.  improve order of writing to logger when handling async
+    * handle and present more information and details\
+    * improve order of writing to logger when handling async
 
 ---
