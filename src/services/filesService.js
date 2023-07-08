@@ -8,7 +8,7 @@ import fs from 'fs';
 import path from 'path';
 import logger from '../utils/logger.js';
 
-const externalFolderPath = path.join(process.cwd(), '../JSON-files-mock');
+const externalFolderPath = path.join(process.cwd(), './JSON-files-mock');
 
 /**
  * Get all files.
@@ -16,7 +16,7 @@ const externalFolderPath = path.join(process.cwd(), '../JSON-files-mock');
  */
 
 export const getAllFiles = () => {
-    // console.log("dirname is", process.cwd())
+    console.log("dirname is", process.cwd())
     return new Promise((resolve, reject) => {
         fs.readdir(externalFolderPath, (error, files) => {
             if (error) {

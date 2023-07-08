@@ -1,0 +1,40 @@
+{
+    "tables": [
+        {
+            "title": "table 1 file 2 example title",
+            "rows": 65,
+            "columns": 6,
+            "notes": "table 1 file 2 notes text"
+        },
+        {
+            "title": "table 2 file 2 example title",
+            "rows": 3,
+            "columns": 5,
+            "notes": "table 2 file 2 notes text"
+        },
+        {
+            "title": "table 3 file 2 example title",
+            "rows": 7,
+            "columns": 18,
+            "notes": "table 3 file 2 notes text"
+        },
+        {
+            "title": "table 4 file 2 example title",
+            "rows": 17,
+            "columns": 3,
+            "notes": "table 4 file 2 notes text"
+        },
+        {
+            "title": "table 4 file 2 example title",
+            "rows": 2,
+            "columns": 7,
+            "notes": "table 4 file 2 notes text"
+        },
+        {
+            "title": "table 5 file 2 example title",
+            "rows": 55,
+            "columns": 12,
+            "notes": "table 5 file 2 notes text"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "tables": [
+        {
+            "title": "table 1 file 3 example title",
+            "rows": 5,
+            "columns": 2,
+            "notes": "table 1 file 3 notes text"
+        },
+        {
+            "title": "table 2 file 3 example title",
+            "rows": 7,
+            "columns": 8,
+            "notes": "table 2 file 3 notes text"
+        },
+        {
+            "title": "table 3 file 3 example title",
+            "rows": 10,
+            "columns": 3,
+            "notes": "table 3 file 3 notes text"
+        },
+        {
+            "title": "table 4 file 3 example title",
+            "rows": 15,
+            "columns": 20,
+            "notes": "table 4 file 3 notes text"
+        }
+    ]
+}

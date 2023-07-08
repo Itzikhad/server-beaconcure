@@ -1,0 +1,16 @@
+{
+    "tables": [
+        {
+            "title": "table 1 file 1 example title",
+            "rows": 5,
+            "columns": 2,
+            "notes": "table 1 file 1 notes text"
+        },
+        {
+            "title": "table 2 file 1 example title",
+            "rows": 7,
+            "columns": 8,
+            "notes": "table 2 file 1 notes text"
+        }
+    ]
+}
